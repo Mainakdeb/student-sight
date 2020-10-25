@@ -26,7 +26,7 @@ The project was divided into 2 main parts:
        Spongebob {ID: hack101} left the class 
        Uptime: 00:25:46 
        Downtime: 0:10:14
-```
+        ```
 Note: The name and ID for each student can be changed by simply changing the `students.json` file. 
 
 ## Scalable out of the box
