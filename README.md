@@ -15,7 +15,7 @@ The project was divided into 2 main parts:
     1. When a student enters the class, it sends: 
 
         
-        ```
+    ```
     Spongebob {ID: hack101} just joined the class
     ```
     
