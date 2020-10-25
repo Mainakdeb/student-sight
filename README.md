@@ -1,3 +1,7 @@
+# Student Sight 
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mainakdeb/student-sight">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mainakdeb/student-sight">
+
 ## Inspiration
 COVID-19 has forced all schools and colleges to shut down, and as a result all the teachers are hosting classes online. 
 It is nearly impossible for a teacher to make sure that every student is paying attention to the class. For example, the student could just join the class and physically leave to to do something else or use his smartphone.
